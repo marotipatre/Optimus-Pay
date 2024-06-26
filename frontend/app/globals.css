@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+body{
+  font-family:Verdana !important;
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(218, 28%, 0%) !important;
+}
+a{
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
+h1 , nav{
+  font-family: 'Raleway', sans-serif;
+}
+.fylo{
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+}
+.contanier{
+  margin: 0 80px;
+}
+@media (max-width: 750px){
+  .contanier{
+    margin: 0 40px;
+  }
+}
+
+
+.float-label-input {
+  margin: 32px 0;     
+}
+
+.float-label-input:focus-within label,
+.float-label-input input:not(:placeholder-shown) + label {
+  transform: translateY(-1.5rem) scale(0.75);
+  background-color: white;
+}
+nextjs-portal {
+  display: none;
+}
