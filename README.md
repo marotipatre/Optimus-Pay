@@ -1,5 +1,7 @@
 # 💸 Optimus Pay
 
+- 🏆 Runner Up at OPHacks IIT Bombay organised by Optimism
+
 
 ## Empower Your Business: Optimus Pay - Seamless Web3 Payments in one click 🚀
 <br>
@@ -116,3 +118,6 @@ https://www.canva.com/design/DAF7H_B2Un8/j8v3hHvsOeQU-GU7QtF-Rg/view?utm_content
 
 ## Demo Link
 
+The main repo is private due to security reasons and updates
+-
+https://github.com/Kali-Decoder/Optimus_Pay
